@@ -8,4 +8,10 @@
     <string name="previous">Previous</string>
     <string name="desc">desc</string>
     <string name="title_activity_info">InfoActivity</string>
+    <string name="select_mark">Оцените следующие пункты</string>
+    <string name="five">5</string>
+    <string name="four">4</string>
+    <string name="three">3</string>
+    <string name="two">2</string>
+    <string name="one">1</string>
 </resources>
